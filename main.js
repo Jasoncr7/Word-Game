@@ -51,7 +51,7 @@ answer.addEventListener('input', (eve) =>{
         scoring++;
         score.textContent = scoring;
     }
-    if(question.textContent == "What Five Letter Word Becomes Shorter When You ADD Two Letters?" && lowerCase == 'shorter'){
+    if(question.textContent == "What Five Letter Word Becomes Shorter When You ADD Two Letters?" && lowerCase == 'short'){
         scoring++;
         score.textContent = scoring;
     }
