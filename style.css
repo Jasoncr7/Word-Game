@@ -44,7 +44,7 @@ input{
     justify-content: center;
     align-items: center;
 }
-@media (min-width: 900px){
+@media (max-width: 900px){
     .question{
         font-size: 1.4rem;
     }
